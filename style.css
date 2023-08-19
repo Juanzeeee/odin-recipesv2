@@ -7,9 +7,24 @@ h1 {
     text-align: center;
     color: red;
     text-decoration-line: underline;
+    text-decoration-color: darkred;
     
 }
 
 a {
     color: red;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.links {
+    border: 3px solid darkred;
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    
 }
